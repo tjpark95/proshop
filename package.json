@@ -1,0 +1,23 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "eCommerce Platform",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjpark95/proshop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjpark95/proshop/issues"
+  },
+  "homepage": "https://github.com/tjpark95/proshop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
