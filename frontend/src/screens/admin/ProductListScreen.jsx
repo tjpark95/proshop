@@ -77,11 +77,11 @@ const ProductListScreen = () => {
                       </Button>
                     </LinkContainer>
                     <Button
-                      variant="danger"
+                      variant="light"
                       className="btn-sm"
                       onClick={() => deleteHandler(product._id)}
                     >
-                      <FaTrash style={{ color: "white" }} />
+                      <FaTrash style={{ color: "black" }} />
                     </Button>
                   </td>
                 </tr>
